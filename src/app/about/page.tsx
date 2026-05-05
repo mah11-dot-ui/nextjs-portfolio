@@ -45,7 +45,7 @@ export default function AboutPage() {
         <div className="space-y-4">
           <h1 className="text-4xl font-bold text-white">About Me</h1>
           <p className="text-gray-400 leading-relaxed text-lg">
-            I&apos;m <span className="text-violet-400 font-semibold">Alex Rahman</span>, a passionate
+            I&apos;m <span className="text-violet-400 font-semibold">Mahmood Hassan</span>, a passionate
             full-stack developer with 5+ years of experience building modern web applications.
             I love turning complex problems into simple, beautiful, and intuitive solutions.
           </p>

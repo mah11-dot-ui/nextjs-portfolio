@@ -19,7 +19,7 @@ export default function Home() {
         <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight text-white leading-tight">
           Hi, I&apos;m{" "}
           <span className="bg-gradient-to-r from-violet-400 to-indigo-400 bg-clip-text text-transparent">
-            Alex Rahman
+            Mahmood Hassan
           </span>
         </h1>
 
